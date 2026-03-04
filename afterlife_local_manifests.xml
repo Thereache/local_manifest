@@ -4,12 +4,12 @@
 
     <project path="device/xiaomi/redwood" name="Thereache/android_device_xiaomi_redwood" remote="gh" revision="afl" />
 
-    <project path="vendor/xiaomi/redwood" name="Thereache/proprietary_vendor_xiaomi_redwood" remote="gh" revision="sixteen" />
+    <project path="vendor/xiaomi/redwood" name="Thereache/proprietary_vendor_xiaomi_redwood" remote="gh" />
 
-    <project path="kernel/xiaomi/redwood" name="Thereache/android_kernel_xiaomi_redwood" remote="gh" revision="lineage-20" clone-depth="1" />
+    <project path="kernel/xiaomi/redwood" name="Thereache/android_kernel_xiaomi_redwood" remote="gh" clone-depth="1" />
 
-    <project path="hardware/xiaomi" name="Thereache/android_hardware_xiaomi" remote="gh" revision="sixteen" />
+    <project path="hardware/xiaomi" name="Thereache/android_hardware_xiaomi" remote="gh" />
     <project path="hardware/dolby" name="Thereache/android_hardware_dolby" remote="gh" revision="sony-1.3" />
 
-    <project path="vendor/xiaomi/redwood-miuicamera" name="Thereache/vendor_xiaomi_redwood-miuicamera" remote="gh" revision="sixteen" />
+    <project path="vendor/xiaomi/redwood-miuicamera" name="Thereache/vendor_xiaomi_redwood-miuicamera" remote="gh" />
 </manifest>
