@@ -12,6 +12,4 @@
     <project path="hardware/dolby" name="Thereache/android_hardware_dolby" remote="gh" revision="sony-1.3" />
 
     <project path="vendor/xiaomi/redwood-miuicamera" name="Thereache/vendor_xiaomi_redwood-miuicamera" remote="gh" revision="sixteen" />
-
-    <project path="vendor/afterlife-priv" name="Thereache/vendor_lineage-priv_keys" remote="gh" revision="afl" />
 </manifest>
