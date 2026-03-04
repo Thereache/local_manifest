@@ -4,7 +4,7 @@
 
     <project path="device/xiaomi/redwood" name="Thereache/android_device_xiaomi_redwood" remote="gh" revision="afl" />
 
-    <project path="vendor/xiaomi/redwood" name="Thereache/proprietary_vendor_xiaomi_redwood" remote="gh" revision="afl" />
+    <project path="vendor/xiaomi/redwood" name="Thereache/proprietary_vendor_xiaomi_redwood" remote="gh" revision="sixteen" />
 
     <project path="kernel/xiaomi/redwood" name="Thereache/android_kernel_xiaomi_redwood" remote="gh" revision="lineage-20" clone-depth="1" />
 
